@@ -1,4 +1,4 @@
-# ACD_MDS_V2_Session_11_Assignment_1
+# Aplication of Matplotlib
 2.​​ ​ Problem Statement
 This assignment is for visualization using matplotlib:
 data to use:
